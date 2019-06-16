@@ -10,3 +10,5 @@ sigmoid_and_relu_FF.ipynb : python code that takes 5 feature values and computes
 
 complete NN.ipynb is the complete nueral network i.e feed forward and back propogation, using sigmoid and relu function without using keras. weights and biases are randomly generated. 
 
+keras NN.ipynb is nueral network designed for a toy problem using sigmoid and relu function.
+
