@@ -12,3 +12,7 @@ complete NN.ipynb is the complete nueral network i.e feed forward and back propo
 
 keras NN.ipynb is nueral network designed for a toy problem using sigmoid and relu function.
 
+diabetes prediction.ipynb: neural network to predict whether or not an individual develops diabetes. used pima-indians-diabetes.csv as input data. 
+
+congressional voting predictions.ipynb: neural network to predict whether the politician is republican or democrat based on their voting record. used votingrecords.csv as input data. 
+
