@@ -16,3 +16,8 @@ diabetes prediction.ipynb: neural network to predict whether or not an individua
 
 congressional voting predictions.ipynb: neural network to predict whether the politician is republican or democrat based on their voting record. used votingrecords.csv as input data. 
 
+overfit_underfit.ipynb: over fitting, under fitting and fit examples for nueral network
+
+dropout NN.ipynb: this notebook implements drop out, model validation with training and testing and then saves the final model
+
+checkpoint.ipynb: this notebook uses checkpointing to save the model weights and biases by taking "snap shots" while the model is running.
